@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+.watch{
+position: relative;
+padding-top: 56.25%;
+
+}
+
+.back{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    cursor: pointer;
+    z-index: 2;
+}
+
+
+.video{
+    position:absolute;
+    top: 0;
+    left:0;
+}
